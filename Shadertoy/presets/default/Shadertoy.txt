@@ -130,3 +130,4 @@
 "Star Tunnel" "startunnel.frag.glsl"
 "Warping/Warp" "warp.frag.glsl"
 "Warping/Texture" "warptex.frag.glsl"
+"VHS" "vhs.glsl"
